@@ -31,8 +31,6 @@ isaiah-nlp-analysis/
     ├── clustering.py
     ├── topic_modeling.py
     └── summarization.py
-```plaintext
-
 
 - **\`scripts/\`**: Contains modular Python files for different steps of the pipeline.
 - **\`main.py\`**: Orchestrates the entire workflow.
