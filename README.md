@@ -11,7 +11,6 @@ This repository provides an open-source Natural Language Processing (NLP) pipeli
 
 ## Project Structure
 
-\`\`\`
 isaiah-nlp-analysis/
 ├── .gitignore
 ├── .env.example
@@ -31,7 +30,6 @@ isaiah-nlp-analysis/
     ├── clustering.py
     ├── topic_modeling.py
     └── summarization.py
-\`\`\`
 
 - **\`scripts/\`**: Contains modular Python files for different steps of the pipeline.
 - **\`main.py\`**: Orchestrates the entire workflow.
