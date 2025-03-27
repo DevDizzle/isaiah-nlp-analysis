@@ -11,7 +11,6 @@ This repository provides an open-source Natural Language Processing (NLP) pipeli
 
 ## Project Structure
 
-```plaintext
 isaiah-nlp-analysis/
 ├── .gitignore
 ├── .env.example
