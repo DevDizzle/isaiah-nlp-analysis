@@ -10,7 +10,7 @@ This repository provides an open-source Natural Language Processing (NLP) pipeli
 - **Summarization** of topics using Google Gemini (optional).
 
 ## Project Structure
-
+plaint text 
 isaiah-nlp-analysis/
 ├── .gitignore
 ├── .env.example
